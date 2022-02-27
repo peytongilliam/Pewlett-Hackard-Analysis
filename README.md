@@ -6,7 +6,10 @@ The purpose of this analysis was for Bobby to show his manager a breakdown of th
 We determined that there is a large amount of employees nearing retirement. 
 We need to prepare for the "Silver Tsunami" that is nearing.
 There are large amounts of employees retiring from several titles as shown below.
+
 <img width="168" alt="Retiring_Titles" src="https://user-images.githubusercontent.com/95394598/155896631-9db02523-8546-4369-94cd-aa9c333d7162.PNG">
+
+
 We also have a decent amount of employees that are eligible for the mentorship program.
 
 ## Summary
